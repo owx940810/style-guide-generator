@@ -1,5 +1,7 @@
 # .env file
 .env
+.env.staging
+.env.production
 
 # ApiDoc compiled
 doc/
