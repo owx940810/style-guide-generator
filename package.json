@@ -6,7 +6,9 @@
   "author": "calvin <calvinxhen@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "boxescms": "^0.9.1"
+    "boxescms": "^0.9.3",
+    "feather-icons": "^4.7.3",
+    "vue-color": "^2.6.0"
   },
   "scripts": {
     "start": "boxes start",
