@@ -1,1 +1,1 @@
-# style-guide-generator
+# style-guide-kit
