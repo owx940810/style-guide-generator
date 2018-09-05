@@ -2,7 +2,7 @@
   "name": "style-guide-generator",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/owx940810/style-guide-kit.git",
+  "repository": "https://github.com/owx940810/styleguide-kit.git",
   "author": "calvin <calvinxhen@gmail.com>",
   "license": "MIT",
   "dependencies": {
